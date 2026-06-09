@@ -1,0 +1,26 @@
+﻿# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Build outputs
+bin/
+obj/
+dist/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+.antigravity-ide/
+
+# Secrets
+*.env
+appsettings.Development.json
+
+# Uploads
+wwwroot/uploads/
+
+# Logs
+logs/
+*.log

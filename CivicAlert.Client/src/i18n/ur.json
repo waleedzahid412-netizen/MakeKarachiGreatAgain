@@ -1,0 +1,14 @@
+{
+  "login": "لاگ ان",
+  "register": "رجسٹر کریں",
+  "email": "ای میل ایڈریس",
+  "password": "پاس ورڈ",
+  "fullName": "پورا نام",
+  "phoneNumber": "فون نمبر",
+  "submit": "جمع کروائیں",
+  "logout": "لاگ آؤٹ",
+  "welcomeBack": "خوش آمدید",
+  "createAccount": "اکاؤنٹ بنائیں",
+  "noAccount": "کیا اکاؤنٹ نہیں ہے؟",
+  "haveAccount": "پہلے سے اکاؤنٹ ہے؟"
+}

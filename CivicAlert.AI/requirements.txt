@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-mistralai
+langchain-community
+langchain-experimental
+langchain-pinecone
+pinecone-client
+pypdf
+python-dotenv
+pydantic
+pydantic-settings
+slowapi

@@ -1,0 +1,14 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "email": "Email Address",
+  "password": "Password",
+  "fullName": "Full Name",
+  "phoneNumber": "Phone Number",
+  "submit": "Submit",
+  "logout": "Logout",
+  "welcomeBack": "Welcome Back",
+  "createAccount": "Create Account",
+  "noAccount": "Don't have an account?",
+  "haveAccount": "Already have an account?"
+}
