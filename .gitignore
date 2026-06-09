@@ -16,6 +16,7 @@ dist/
 
 # Secrets
 *.env
+appsettings.json
 appsettings.Development.json
 
 # Uploads
@@ -24,4 +25,3 @@ wwwroot/uploads/
 # Logs
 logs/
 *.log
-appsettings.json
