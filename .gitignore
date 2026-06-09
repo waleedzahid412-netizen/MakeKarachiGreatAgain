@@ -24,3 +24,4 @@ wwwroot/uploads/
 # Logs
 logs/
 *.log
+appsettings.json
